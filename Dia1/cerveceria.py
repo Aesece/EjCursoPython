@@ -1,0 +1,1 @@
+print('La marca de tu cerveza es:\n \"'+(input('Palabra 1: '))+' '+(input('Palabra 2: '))+'"')

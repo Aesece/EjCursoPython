@@ -1,0 +1,2 @@
+nombre="Juan"
+print(nombre)
