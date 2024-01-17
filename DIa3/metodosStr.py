@@ -27,5 +27,5 @@ print(e)
 res=texto.find("g") #Encuentra el indice donde aparece el texto o cadena ingresada, devuelve -1 cuando no encuentra nada
 print(res)
 
-res=texto.replace("Carlos","todos") #Reemplaza caracter o cadena por la cadena dada
+res=texto.replace("Carlos","todos") #Reemplaza caracter o cadena por la cadena dadaUp
 print(res)

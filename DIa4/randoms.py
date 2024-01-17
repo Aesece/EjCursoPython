@@ -1,5 +1,5 @@
 from random import *
-aleatorio= randint(1,50) ##Retorna un entero aleatorio entre el rango establecido
+aleatorio= randint(1,7) ##Retorna un entero aleatorio entre el rango establecido
 print(aleatorio)
 
 aleatorio = uniform(1,5) #Retorna un valor decimal que se puede cortar la cantidad de decimales con round
