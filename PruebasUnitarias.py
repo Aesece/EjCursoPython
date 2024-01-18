@@ -1,3 +1,5 @@
-num = int(input("Ingresa un numero:"))
-print(type(num))
-print(num in range(1, 101))
+from random import choice
+palabra = 'carlos'
+lista = ['c','a','r','l','o','s']
+
+print(palabra == ''.join(lista))
