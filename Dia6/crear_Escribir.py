@@ -15,4 +15,3 @@ file = open('prueba.txt','a')  ###Abre el archivo en modo escritura respetando l
 file.write("textoPrueba")
 file.close()
 
-()
